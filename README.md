@@ -10,6 +10,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - Vite 官方網站：https://vitejs.dev/
 - npm -v -> 8.x.x & node -v -> v16.x.x ( 直接安裝最新 npm create vite@latest )
+- framework : Vue
+- variant : JavaScript
 
 - Create Vue GitHub：https://github.com/vuejs/create-vue
-
